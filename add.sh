@@ -1,2 +1,0 @@
-echo "adding two numbers"
-
